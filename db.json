@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pê",
+      "email": "pe@example.com"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Estudar React",
+      "description": "Assistir aulas e praticar com projetos.",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Configurar ambiente de desenvolvimento",
+      "description": "Instalar Node.js, configurar Neovim e baixar dependências.",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Criar um layout para o Ero Board",
+      "description": "Definir estrutura e design inicial da interface.",
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Pesquisar frameworks para desktop",
+      "description": "Estudar Electron, Tauri e alternativas.",
+      "status": "pending"
+    }
+  ]
+}
