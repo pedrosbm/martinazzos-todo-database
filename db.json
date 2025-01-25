@@ -14,7 +14,8 @@
       "title": "Estudar React",
       "description": "Assistir aulas e praticar com projetos.",
       "status": "pending",
-      "points": 50
+      "points": 50,
+      "priority": "alta"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "title": "Configurar ambiente de desenvolvimento",
       "description": "Instalar Node.js, configurar Neovim e baixar dependências.",
       "status": "completed",
-      "points": 30
+      "points": 30,
+      "priority": "média"
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
       "title": "Criar um layout para o Ero Board",
       "description": "Definir estrutura e design inicial da interface.",
       "status": "pending",
-      "points": 50
+      "points": 50,
+      "priority": "alta"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "title": "Pesquisar frameworks para desktop",
       "description": "Estudar Electron, Tauri e alternativas.",
       "status": "pending",
-      "points": 20
+      "points": 20,
+      "priority": "baixa"
     }
   ]
 }
